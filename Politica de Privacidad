@@ -1,5 +1,5 @@
 Política de Privacidad
-Última actualización: 14/10/2024
+Última actualización: 16/10/2024
 
 1. Información que recopilamos
 Datos de mensajes: La IA puede recopilar y almacenar mensajes de los usuarios para mejorar su aprendizaje y respuestas. Los mensajes se almacenan localmente y no se comparten con terceros.
@@ -12,7 +12,7 @@ La información recopilada se utiliza para:
 -Proporcionar una experiencia más personalizada en el canal donde la IA está activa.
 
 3. Almacenamiento de datos
-Los mensajes se almacenan en un archivo local y se limita el tamaño total de almacenamiento a 100 MB(aproximadamente 2 millones de mensajes). Los mensajes más antiguos se eliminarán automáticamente para dar espacio a nuevos mensajes cuando se alcance este límite.
+Los mensajes se almacenan en un archivo local y se limita el tamaño total de almacenamiento a 10 GB(aproximadamente 100 millones de mensajes). Los mensajes más antiguos se eliminarán automáticamente para dar espacio a nuevos mensajes cuando se alcance este límite.
 
 4. Seguridad de los datos
 Tomamos medidas razonables para proteger la información almacenada, pero no podemos garantizar la seguridad absoluta de los datos.
